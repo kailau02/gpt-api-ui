@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/gpt-api-ui/static/css/main.def3f83f.css",
-    "main.js": "/gpt-api-ui/static/js/main.e5a74fe1.js",
+    "main.js": "/gpt-api-ui/static/js/main.ee215598.js",
     "index.html": "/gpt-api-ui/index.html",
     "main.def3f83f.css.map": "/gpt-api-ui/static/css/main.def3f83f.css.map",
-    "main.e5a74fe1.js.map": "/gpt-api-ui/static/js/main.e5a74fe1.js.map"
+    "main.ee215598.js.map": "/gpt-api-ui/static/js/main.ee215598.js.map"
   },
   "entrypoints": [
     "static/css/main.def3f83f.css",
-    "static/js/main.e5a74fe1.js"
+    "static/js/main.ee215598.js"
   ]
 }
